@@ -2,7 +2,7 @@
   <section class="hero">
     <div class="hero-copy">
       <p class="eyebrow">SEASONAL MEDITERRANEAN KITCHEN</p>
-      <h1>一餐好饭，<br /><i>刚好让心</i> 慢下来。</h1>
+      <h1>这一餐，慢慢吃，<br /><i>也慢慢把心</i> 安放。</h1>
       <p class="hero-text">用阳光、海风与当季食材，做一桌值得慢慢品尝的地中海家常菜。</p>
       <div class="hero-actions">
         <a class="button" href="#reserve">预订一席 <span>→</span></a>
